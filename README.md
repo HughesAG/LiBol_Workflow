@@ -10,4 +10,4 @@ MODFLOW files contained in "LiBol-WF-UTM-04 MF.zip"
 
 and then with the addition of porosity distribution create a MODPATH model
 
-MODPTAH files contained in "LiBol-WF-UTM-04 MP.zip"
+MODPATH files contained in "LiBol-WF-UTM-04 MP.zip"
