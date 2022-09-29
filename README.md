@@ -4,7 +4,7 @@ JUPYTER NB allows the user to take a pre-constructed MODFLOW 2005 model and add:
 
  - recharge
 - drains
-- hydraulic conducitivty distribution
+- hydraulic conducitivity distribution
 
 MODFLOW files contained in "LiBol-WF-UTM-04 MF.zip"
 
